@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function PageContent() {
-  return (
-    <div>
-    <p>dsadasdasd</p>
-    </div>
-  )
+  return <div className="pl-10 flex justify-between"></div>;
 }
 
-export default PageContent
+export default PageContent;

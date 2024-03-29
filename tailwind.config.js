@@ -5,8 +5,15 @@ export default {
     colors: {
       navbarColor: "#252B42",
       navbarLight: "#FFFFFF",
+      grey: "#252B42",
+      iconblue: "#23A6F0",
+      textgrey: "#737373",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        montserrat: ['"montserrat"', "arial"],
+      },
+    },
   },
   plugins: [],
 };
