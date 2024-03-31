@@ -13,6 +13,9 @@ export default {
       fontFamily: {
         montserrat: ['"montserrat"', "arial"],
       },
+      backgroundImage: {
+        "main-image": "url(/src/assets/mainpage.jpg)",
+      },
     },
   },
   plugins: [],
