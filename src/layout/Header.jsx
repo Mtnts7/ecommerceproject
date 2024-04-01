@@ -9,13 +9,13 @@ function Header() {
           <div className="flex  p-2 ml-5">
             <i class="fa-solid fa-phone p-1"></i>
             <p className="text-center font-montserrat font-bold text-sm">
-              (225) 555-0118
+              (532) 532-0532
             </p>
           </div>
           <div className="flex  p-2">
             <i class="fa-solid fa-envelope p-1"></i>
             <p className="text-center font-montserrat font-bold text-sm">
-              michelle.rivera@example.com
+              pars.sale@parsale.com
             </p>
           </div>
         </div>
@@ -33,37 +33,37 @@ function Header() {
       {/* lightnavbar */}
       <div className="bg-navbarLight flex justify-between pl-10 pt-4 pb-4">
         <div className="flex">
-          <p className="font-montserrat font-bold text-2xl pt-2">Bandage</p>
+          <p className="font-montserrat font-bold text-2xl pt-2">Parsale</p>
         </div>
         <div className="flex flex-grow pl-20">
           <div className="font-medium text-sm text-grey flex pt-4 justify-start max-w-2xl">
             <ul>
-              <a href="#" className="pr-8 pl-8 text-sm">
+              <a href="#" className="pr-6 pl-6 text-sm">
                 Home
               </a>
             </ul>
             <ul>
-              <a href="#" className="pr-8 pl-8 text-sm">
+              <a href="#" className="pr-6 pl-6 text-sm">
                 Shop
               </a>
             </ul>
             <ul>
-              <a href="#" className="pr-8 pl-8 text-sm">
+              <a href="#" className="pr-6 pl-6 text-sm">
                 About
               </a>
             </ul>
             <ul>
-              <a href="#" className="pr-8 pl-8 text-sm">
+              <a href="#" className="pr-6 pl-6 text-sm">
                 Blog
               </a>
             </ul>
             <ul>
-              <a href="#" className="pr-8 pl-8 text-sm">
+              <a href="#" className="pr-6 pl-6 text-sm">
                 Contact
               </a>
             </ul>
             <ul>
-              <a href="#" className="pr-8 pl-8 text-sm">
+              <a href="#" className="pr-6 pl-6 text-sm">
                 Pages
               </a>
             </ul>
