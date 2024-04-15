@@ -9,6 +9,7 @@ export default {
       iconblue: "#23A6F0",
       textgrey: "#737373",
       success: "#2DC071",
+      black: "#000000",
     },
     extend: {
       fontFamily: {

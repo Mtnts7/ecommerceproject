@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom/cjs/react-router-dom.min";
 
 function Header() {
   return (
@@ -31,7 +30,7 @@ function Header() {
           </div>
         </div>
       </div>
-      <div id="light__header" className="flex justify-between pl-5 pr-5">
+      <div id="light__header" className="flex justify-between pl-5 pr-5 pt-3">
         <div id="light__header__left__text">
           <h3 className="text-2xl font-bold">Bandage</h3>
         </div>
